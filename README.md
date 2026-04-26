@@ -128,12 +128,12 @@ FlxPCG/
 │       ├── Enemy.hx              # FlxSprite — Tier 1/2 enemies
 │       └── Reward.hx             # FlxSprite — rewards
 ├── assets/data/rooms/
-│   ├── room_combat_01.json       # 10×10 — 4 Tier-1 spawns, pillar pairs
-│   ├── room_combat_02.json       # 12×8  — Tier-2 elite + 4 Tier-1
-│   ├── room_reward_01.json       # 8×8   — 2 reward spawns, no enemies
-│   ├── room_neutral_01.json      # 10×10 — open room, no entities
-│   └── room_boss_01.json         # 12×12 — 4-pillar layout, 2 Tier-2
-└── analizar_benchmark.py         # Statistical analysis → paper tables + charts
+    ├── room_combat_01.json       # 10×10 — 4 Tier-1 spawns, pillar pairs
+    ├── room_combat_02.json       # 12×8  — Tier-2 elite + 4 Tier-1
+    ├── room_reward_01.json       # 8×8   — 2 reward spawns, no enemies
+    ├── room_neutral_01.json      # 10×10 — open room, no entities
+    └── room_boss_01.json         # 12×12 — 4-pillar layout, 2 Tier-2
+
 ```
 
 ---
