@@ -147,11 +147,10 @@ lime test windows
 # 2. Collect the CSV (generated next to the executable)
 #    Export/windows/bin/benchmark_results.csv
 
-# 3. Analyze and generate paper tables + charts
-python analizar_benchmark.py Export/windows/bin/benchmark_results.csv
+# 3. Analyze and generate paper tables
 ```
 
-Output: `resumen_articulo.txt`, `boxplot_tiempos.png`, `boxplot_entidades.png`, `histograma_resemillados.png`.
+Output: `benchmark_results.csv`.
 
 ---
 
