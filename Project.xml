@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="FlxPCG" package="ucol.flxpcg" version="1.0.0" company="Universidad de Colima" />
+	<app main="Main" path="Export" file="FlxPCG" />
+
+	<set name="BUILD_DIR" value="Export" />
+
+	<!-- Ventana: 1280x720 @ 60 FPS -->
+	<window width="1280" height="720" fps="60" background="#000000" />
+
+	<source path="source" />
+
+	<!-- Dependencias HaxeFlixel -->
+	<haxelib name="flixel" />
+	<haxelib name="flixel-addons" />
+
+	<!-- Assets: todos los JSON de habitaciones y cualquier imagen futura -->
+	<assets path="assets" rename="assets" />
+</project>

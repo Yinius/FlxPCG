@@ -1,0 +1,39 @@
+{
+  "ogmoVersion": "3.4.0",
+  "width": 160,
+  "height": 160,
+  "offsetX": 0,
+  "offsetY": 0,
+  "layers": [
+    {
+      "name": "Tiles",
+      "_eid": "d1e2f3g4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 16,
+      "gridCellHeight": 16,
+      "gridCellsX": 10,
+      "gridCellsY": 10,
+      "tileset": "Tileset",
+      "data": [
+        2,2,2,2,2,2,2,2,2,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,2,
+        2,2,2,2,2,2,2,2,2,2
+      ]
+    },
+    {
+      "name": "Entities",
+      "_eid": "h1i2j3k4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "entities": []
+    }
+  ]
+}

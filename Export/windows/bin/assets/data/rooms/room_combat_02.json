@@ -1,0 +1,43 @@
+{
+  "ogmoVersion": "3.4.0",
+  "width": 192,
+  "height": 128,
+  "offsetX": 0,
+  "offsetY": 0,
+  "layers": [
+    {
+      "name": "Tiles",
+      "_eid": "b1c2d3e4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 16,
+      "gridCellHeight": 16,
+      "gridCellsX": 12,
+      "gridCellsY": 8,
+      "tileset": "Tileset",
+      "data": [
+        2,2,2,2,2,2,2,2,2,2,2,2,
+        2,1,1,1,1,1,1,1,1,1,1,2,
+        2,1,2,2,1,1,1,1,2,2,1,2,
+        2,1,2,2,1,1,1,1,2,2,1,2,
+        2,1,1,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,1,1,1,1,2,
+        2,2,2,2,2,2,2,2,2,2,2,2
+      ]
+    },
+    {
+      "name": "Entities",
+      "_eid": "f1g2h3i4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "entities": [
+        { "name": "Spawn_Enemy_Tier_1", "_eid": "en05", "id": 5, "x": 16,  "y": 16 },
+        { "name": "Spawn_Enemy_Tier_1", "_eid": "en06", "id": 6, "x": 160, "y": 16 },
+        { "name": "Spawn_Enemy_Tier_2", "_eid": "en07", "id": 7, "x": 80,  "y": 80 },
+        { "name": "Spawn_Enemy_Tier_1", "_eid": "en08", "id": 8, "x": 16,  "y": 96 },
+        { "name": "Spawn_Enemy_Tier_1", "_eid": "en09", "id": 9, "x": 160, "y": 96 }
+      ]
+    }
+  ]
+}

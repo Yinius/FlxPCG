@@ -1,0 +1,40 @@
+{
+  "ogmoVersion": "3.4.0",
+  "width": 128,
+  "height": 128,
+  "offsetX": 0,
+  "offsetY": 0,
+  "layers": [
+    {
+      "name": "Tiles",
+      "_eid": "c1d2e3f4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridCellWidth": 16,
+      "gridCellHeight": 16,
+      "gridCellsX": 8,
+      "gridCellsY": 8,
+      "tileset": "Tileset",
+      "data": [
+        2,2,2,2,2,2,2,2,
+        2,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,2,
+        2,1,1,1,1,1,1,2,
+        2,2,2,2,2,2,2,2
+      ]
+    },
+    {
+      "name": "Entities",
+      "_eid": "g1h2i3j4",
+      "offsetX": 0,
+      "offsetY": 0,
+      "entities": [
+        { "name": "Spawn_Reward", "_eid": "rw01", "id": 10, "x": 48, "y": 48 },
+        { "name": "Spawn_Reward", "_eid": "rw02", "id": 11, "x": 64, "y": 64 }
+      ]
+    }
+  ]
+}

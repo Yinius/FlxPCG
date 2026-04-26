@@ -1,0 +1,16 @@
+Export/windows/bin/flixel/sounds/beep.ogg
+Export/windows/bin/flixel/sounds/flixel.ogg
+Export/windows/bin/flixel/fonts/nokiafc22.ttf
+Export/windows/bin/flixel/fonts/monsterrat.ttf
+Export/windows/bin/flixel/images/ui/button.png
+Export/windows/bin/flixel/images/logo/default.png
+Export/windows/bin/flixel/images/transitions/circle.png
+Export/windows/bin/flixel/images/transitions/diagonal_gradient.png
+Export/windows/bin/flixel/images/transitions/diamond.png
+Export/windows/bin/flixel/images/transitions/square.png
+Export/windows/bin/assets/data/rooms/room_boss_01.json
+Export/windows/bin/assets/data/rooms/room_combat_01.json
+Export/windows/bin/assets/data/rooms/room_combat_02.json
+Export/windows/bin/assets/data/rooms/room_neutral_01.json
+Export/windows/bin/assets/data/rooms/room_reward_01.json
+Export/windows/bin/manifest/default.json
